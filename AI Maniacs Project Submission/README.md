@@ -48,7 +48,7 @@ https://drive.google.com/file/d/15LzAtiv5cwjOrLmpYP6n5Rj7vAJdp02G/view?usp=shari
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/codify.git
+    git clone https://github.com/Dilip0552/hackathon-projects/tree/main/AI%20Maniacs%20Project%20Submission
     cd codify
     ```
 
@@ -100,3 +100,4 @@ Note: These links are temporary and will expire once the Colab session ends.
 - **Frontend Design:** HTML, CSS, and Google Fonts
 - **AI Integration:** Gradio and Google Colab
 - **Temporary Links:** Gradio temporary links were generated using Colab notebooks.
+
